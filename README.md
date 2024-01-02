@@ -1,11 +1,10 @@
 # HR-Analytics-Dashboard
 
 ### Objective
-Create Dashboard to help the company to improve employee performance and employee retention.
-- 
+Create a Dashboard to help the company improve employee performance and retention.
 
 ### Overview
-This project is designed for analysis of an organization's employee dataset. By exploring datset, The goal is to assist the organization in updating their policy to improve employee performance and employee retention.
+This project is designed for the analysis of an organization's employee dataset. The goal of exploring The dataset is to assist the organization in updating their policy to improve employee performance and retention.
 
 Tools
 - Power Bi
@@ -14,5 +13,5 @@ Tools
 ### Topics Covered
 - Data Load, Transform
 - Data Cleaning
-- DAX masures
+- DAX measures
 - Find Key insights, KPIs
